@@ -7,3 +7,7 @@ else:
     bill=(50*50)+(50*100)+((units-100)*150)+1000
 
 print("the bill is",bill)
+
+
+
+
